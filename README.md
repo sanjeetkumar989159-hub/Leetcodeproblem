@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0326-power-of-three) |
+| [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [2413-smallest-even-multiple](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3798-largest-even-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/3798-largest-even-number) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
