@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
