@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
