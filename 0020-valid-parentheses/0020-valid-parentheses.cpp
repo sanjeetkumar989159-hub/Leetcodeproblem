@@ -24,7 +24,9 @@ public:
                     return false;
             }
         }
-
-        return top == -1;
+        if (top == -1)
+    return true;
+else
+    return false;
     }
 };
