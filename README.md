@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0020-valid-parentheses) |
 | [3798-largest-even-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/3798-largest-even-number) |
 ## Array
 |  |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
