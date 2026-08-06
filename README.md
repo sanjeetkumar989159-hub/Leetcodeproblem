@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
