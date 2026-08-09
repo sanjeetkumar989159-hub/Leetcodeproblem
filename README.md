@@ -82,4 +82,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
