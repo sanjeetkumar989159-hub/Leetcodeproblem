@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
@@ -41,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 ## Game Theory
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
