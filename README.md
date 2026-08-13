@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
@@ -79,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
@@ -94,4 +97,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
