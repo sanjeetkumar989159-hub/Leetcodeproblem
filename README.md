@@ -92,6 +92,7 @@
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
