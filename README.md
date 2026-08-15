@@ -27,6 +27,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 | [3798-largest-even-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/3798-largest-even-number) |
 ## Array
 |  |
@@ -55,11 +56,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
