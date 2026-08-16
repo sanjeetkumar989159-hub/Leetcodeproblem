@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
