@@ -37,6 +37,7 @@
 | [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
@@ -57,12 +58,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -113,4 +117,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
