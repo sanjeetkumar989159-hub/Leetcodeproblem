@@ -15,6 +15,7 @@
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [2413-smallest-even-multiple](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2413-smallest-even-multiple) |
+| [2544-alternating-digit-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2544-alternating-digit-sum) |
 ## Recursion
 |  |
 | ------- |
