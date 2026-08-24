@@ -5,7 +5,7 @@ public:
         int count = 1;
         int sum = 0;
         int rev = 0;
-
+        
         int temp = n;
 
         while(temp != 0){
