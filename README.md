@@ -47,6 +47,7 @@
 | [0162-find-peak-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -75,6 +77,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
