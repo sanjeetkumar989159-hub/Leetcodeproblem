@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0595-big-countries) |
