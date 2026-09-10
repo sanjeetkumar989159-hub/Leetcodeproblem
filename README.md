@@ -57,6 +57,7 @@
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -165,4 +166,8 @@
 | ------- |
 | [0258-add-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
