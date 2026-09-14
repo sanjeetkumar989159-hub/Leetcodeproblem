@@ -55,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1470-shuffle-the-array) |
@@ -171,6 +172,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 ## Bucket Sort
 |  |
