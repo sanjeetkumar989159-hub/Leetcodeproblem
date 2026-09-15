@@ -54,6 +54,7 @@
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
@@ -120,6 +121,7 @@
 | [0075-sort-colors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 ## Memoization
