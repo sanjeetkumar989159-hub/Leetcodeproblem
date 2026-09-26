@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0258-add-digits) |
@@ -31,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0344-reverse-string) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0217-contains-duplicate) |
