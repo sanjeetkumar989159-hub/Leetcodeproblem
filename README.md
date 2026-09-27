@@ -61,6 +61,7 @@
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +110,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
