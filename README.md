@@ -22,6 +22,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
 ## Number Theory
@@ -217,5 +218,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
