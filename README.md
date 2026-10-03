@@ -15,6 +15,7 @@
 | [0326-power-of-three](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2544-alternating-digit-sum) |
@@ -69,6 +70,7 @@
 | [0724-find-pivot-index](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1920-build-array-from-permutation) |
