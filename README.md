@@ -13,6 +13,7 @@
 | [0263-ugly-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -41,6 +42,7 @@
 | [0058-length-of-last-word](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3798-largest-even-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/3798-largest-even-number) |
 ## Array
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
