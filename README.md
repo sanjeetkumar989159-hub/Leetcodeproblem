@@ -76,6 +76,7 @@
 | [1470-shuffle-the-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1991-find-the-middle-index-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -200,6 +201,7 @@
 | [0412-fizz-buzz](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
