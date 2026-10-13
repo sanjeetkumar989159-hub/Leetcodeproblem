@@ -13,6 +13,7 @@
 | [0263-ugly-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
@@ -27,6 +28,7 @@
 | [0203-remove-linked-list-elements](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
