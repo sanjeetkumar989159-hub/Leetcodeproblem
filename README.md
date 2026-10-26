@@ -24,6 +24,7 @@
 | [2235-add-two-integers](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2544-alternating-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
