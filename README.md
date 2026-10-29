@@ -253,4 +253,20 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1672-richest-customer-wealth) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
