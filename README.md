@@ -84,6 +84,7 @@
 | [0877-stone-game](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -126,6 +127,7 @@
 | [0389-find-the-difference](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [0633-sum-of-square-numbers](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Memoization
 |  |
 | ------- |
