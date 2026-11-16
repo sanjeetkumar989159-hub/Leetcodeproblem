@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/2413-smallest-even-multiple) |
@@ -77,6 +79,7 @@
 | [0164-maximum-gap](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0283-move-zeroes) |
@@ -283,6 +286,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -291,5 +295,14 @@
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/1952-three-divisors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sanjeetkumar989159-hub/Leetcodeproblem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
